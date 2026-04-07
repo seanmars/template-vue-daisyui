@@ -2,6 +2,13 @@
 
 一個以 **Vue 3 + daisyUI** 為核心的前端專案範本，整合了現代前端工具鏈，適合快速啟動新的 Web 應用程式。
 
+## How to use this template
+
+```bash
+# Use degit(https://github.com/Rich-Harris/degit) to clone this template (replace USERNAME/REPO with the actual path)
+degit https://github.com/seanmars/template-vue-daisyui my-vue-app
+```
+
 ## 技術棧
 
 | 分類 | 套件 | 版本 |
